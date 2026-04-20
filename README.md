@@ -1,0 +1,1 @@
+# Securing-AWS-CloudTrail-Logs-with-S3-Object-Lock-KMS
